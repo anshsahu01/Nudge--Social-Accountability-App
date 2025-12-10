@@ -1,4 +1,4 @@
-# 🎯 GoalBuddies - Accountability Platform
+# 🎯 NUDGE - Accountability Platform
 
 A modern goal-tracking and accountability platform built with React, Firebase, and Vite. Team up with friends, set goals, track progress, and keep each other accountable!
 
@@ -188,4 +188,5 @@ This project is licensed under the MIT License.
 
 ---
 
-**Made with 🔥 by GoalBuddies Team**
+**Made with 🔥 by Ansh Sahu**
+** Dm on x - https://x.com/_anshsahu1 for any queries and suggestions
